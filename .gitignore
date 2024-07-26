@@ -1,0 +1,96 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+
+# User-specific files
+Project-Introduction to the theory of computation.vcxproj.user
+
+# User-specific files (Visual Studio Code)
+.vscode/
+
+# Build results
+x64/
+.vs/
+
+# Visual Studio Code workspace file
+*.code-workspace
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folders related to Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+
+# Visual Studio temporary files
+*.tmp
+*.log
+*.sdf
+*.unsuccessfulbuild
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# Visual Studio 2019+ database files
+*.opendb
+
+# Visual Studio temporary and generated files
+*.ipch
+*.iobj
+*.ipdb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Visual Studio build results
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.idb
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.map
+*.pch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlog
+
+# Recycle Bin used on file shares
+*.recycle
+
+# C++ intellisense database files
+*.VC.db
+*.VC.VC.opendb
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.swp
